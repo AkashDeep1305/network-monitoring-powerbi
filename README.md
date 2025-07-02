@@ -17,3 +17,7 @@ This dashboard provides insights into the health and performance of a simulated 
 ## 💡 Tools Used
 - Power BI Desktop
 - DAX for KPIs and dynamic measures
+
+## 📊 Dashboard Preview
+
+![Network Dashboard](assets/Dashboard.png)
